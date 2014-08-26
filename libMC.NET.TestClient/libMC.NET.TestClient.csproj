@@ -20,7 +20,6 @@
     <Externalconsole>true</Externalconsole>
     <ConsolePause>false</ConsolePause>
     <PlatformTarget>x86</PlatformTarget>
-    <Commandlineparameters>-ip=127.0.0.1 -user=reddragon010@gmail.com -pass</Commandlineparameters>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>full</DebugType>
